@@ -97,7 +97,7 @@ MIT License
 
 ## Author
 
-sufaismail
+sufa ismail
 
 ## Support
 
